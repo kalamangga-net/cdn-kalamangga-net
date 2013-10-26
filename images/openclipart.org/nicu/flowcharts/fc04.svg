@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+"http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   id="svg548"
+   sodipodi:version="0.32"
+   width="400pt"
+   height="400pt"
+   sodipodi:docbase="/var/www/html/svg_gallery/svg/flowcharts"
+   sodipodi:docname="fc04.svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   inkscape:version="0.37">
+  <defs
+     id="defs550" />
+  <sodipodi:namedview
+     id="base"
+     inkscape:zoom="0.77250000"
+     inkscape:cx="200.000000"
+     inkscape:cy="200.000000"
+     inkscape:window-width="400"
+     inkscape:window-height="500"
+     inkscape:window-x="174"
+     inkscape:window-y="24" />
+  <path
+     style="font-size:12;fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:3.60057;fill-opacity:0.25;"
+     d="M 33.633769 53.495542 C 33.633769 53.495542 478.51537 50.085463 478.51537 51.190904 C 478.51537 52.296437 365.79637 462.52326 365.79637 462.52326 L 134.36137 461.32388 L 33.633769 53.495542 z "
+     id="path1455"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     style="fill:#ffffff;fill-rule:evenodd;stroke:black;stroke-opacity:1;stroke-width:3.75;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;stroke-dasharray:none;"
+     d="M 28.7794 26.4401 C 28.7794 26.4401 473.661 22.7411 473.661 23.9402 C 473.661 25.1394 360.942 470.123 360.942 470.123 L 129.507 468.822 L 28.7794 26.4401 z "
+     id="path587"
+     transform="matrix(1.000000,0.000000,0.000000,0.921892,0.000000,21.03001)"
+     sodipodi:nodetypes="ccccc" />
+</svg>

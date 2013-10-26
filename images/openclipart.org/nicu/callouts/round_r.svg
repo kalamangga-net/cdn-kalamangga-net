@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+"http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   id="svg548"
+   sodipodi:version="0.32"
+   width="400pt"
+   height="400pt"
+   sodipodi:docbase="/var/www/html/svg_gallery/svg/callouts"
+   sodipodi:docname="round_r.svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   inkscape:version="0.37">
+  <defs
+     id="defs550" />
+  <sodipodi:namedview
+     id="base"
+     inkscape:zoom="0.77250000"
+     inkscape:cx="200.000000"
+     inkscape:cy="200.000000"
+     inkscape:window-width="400"
+     inkscape:window-height="500"
+     inkscape:window-x="39"
+     inkscape:window-y="24" />
+  <path
+     style="font-size:12;fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:2.5;stroke-dasharray:none;fill-opacity:0.5;"
+     d="M 249.50374 29.222492 C 137.44945 30.976854 38.612687 91.819248 17.628742 178.12874 C -6.3529091 276.76816 80.385631 371.49051 211.25374 389.56624 L 212.56624 389.50374 L 213.28499 390.06624 L 210.31624 390.15999 L 396.19124 475.28499 L 320.84749 385.56624 C 411.36084 366.09391 474.81559 313.42598 491.78499 243.62874 C 515.76664 144.98933 428.99684 50.266968 298.12874 32.191242 C 281.77023 29.931776 265.5115 28.971869 249.50374 29.222492 z M 320.37874 385.59749 L 320.65999 385.59749 L 320.65999 386.06624 L 320.37874 385.59749 z "
+     id="path796" />
+  <path
+     style="font-size:12;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:2.5;stroke-dasharray:none;"
+     d="M 243.031250 22.750000 C 130.976957 24.504362 32.140195 85.346756 11.156250 171.656250 C -12.825401 270.295666 73.913139 365.018019 204.781250 383.093750 L 206.093750 383.031250 L 206.812500 383.593750 L 203.843750 383.687500 L 389.718750 468.812500 L 314.375000 379.093750 C 404.888344 359.621415 468.343100 306.953490 485.312500 237.156250 C 509.294151 138.516834 422.524346 43.794476 291.656250 25.718750 C 275.297737 23.459284 259.039006 22.499377 243.031250 22.750000 z M 313.906250 379.125000 L 314.187500 379.125000 L 314.187500 379.593750 L 313.906250 379.125000 z "
+     id="path795" />
+</svg>

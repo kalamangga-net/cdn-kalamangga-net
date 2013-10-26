@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+"http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   id="svg548"
+   sodipodi:version="0.32"
+   width="400pt"
+   height="400pt"
+   sodipodi:docbase="/var/www/html/svg_gallery/svg/flowcharts"
+   sodipodi:docname="fc15.svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   inkscape:version="0.37">
+  <defs
+     id="defs550" />
+  <sodipodi:namedview
+     id="base"
+     showgrid="true"
+     inkscape:zoom="0.77250000"
+     inkscape:cx="200.000000"
+     inkscape:cy="200.000000"
+     inkscape:window-width="400"
+     inkscape:window-height="500"
+     inkscape:window-x="5"
+     inkscape:window-y="46" />
+  <path
+     style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-opacity:1;stroke-width:3.75;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:0.25;stroke-dasharray:none;"
+     d="M 64.133562 86.989778 L 445.77846 88.937778 C 445.77846 88.937778 483.3697 146.40388 481.46625 248.67488 C 481.53367 361.65988 447.68191 424.96988 447.68191 424.96988 L 65.085288 426.91788 C 65.085288 426.91788 27.967659 363.60788 31.774565 248.67488 C 30.822839 139.58688 63.181835 87.963778 64.133562 86.989778 z "
+     id="path1546"
+     sodipodi:nodetypes="ccccccc" />
+  <path
+     style="fill:#ffffff;fill-rule:evenodd;stroke:black;stroke-opacity:1;stroke-width:3.75;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;stroke-dasharray:none;"
+     d="M 51.6224 56.8269 L 442.199 58.7749 C 442.199 58.7749 480.67 116.241 478.722 218.512 C 478.791 331.497 444.147 394.807 444.147 394.807 L 52.5964 396.755 C 52.5964 396.755 14.6101 333.445 18.5061 218.512 C 17.5321 109.424 50.6484 57.8009 51.6224 56.8269 z "
+     id="path605"
+     sodipodi:nodetypes="ccccccc"
+     transform="matrix(0.977132,0.000000,0.000000,1.000000,2.364802,20.45414)" />
+</svg>

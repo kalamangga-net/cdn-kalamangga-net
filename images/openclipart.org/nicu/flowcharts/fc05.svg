@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+"http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   id="svg548"
+   sodipodi:version="0.32"
+   width="400pt"
+   height="400pt"
+   sodipodi:docbase="/var/www/html/svg_gallery/svg/flowcharts"
+   sodipodi:docname="fc05.svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   inkscape:version="0.37">
+  <defs
+     id="defs550" />
+  <sodipodi:namedview
+     id="base"
+     inkscape:zoom="1.09247998"
+     inkscape:cx="199.999996"
+     inkscape:cy="199.999978"
+     inkscape:window-width="558"
+     inkscape:window-height="661"
+     inkscape:window-x="117"
+     inkscape:window-y="24" />
+  <path
+     style="font-size:12;fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:3.38022;fill-opacity:0.25;"
+     d="M 36.396078 80.070986 C 36.396078 80.070986 481.27768 78.122353 481.27768 79.096629 C 481.27768 80.070986 477.68068 440.56576 477.68068 440.56576 L 37.595278 440.56576 L 36.396078 80.070986 z "
+     id="path1461" />
+  <path
+     style="fill:#ffffff;fill-rule:evenodd;stroke:black;stroke-opacity:1;stroke-width:3.75;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;stroke-dasharray:none;"
+     d="M 28.7794 25.1394 C 28.7794 25.1394 473.661 22.7411 473.661 23.9402 C 473.661 25.1394 470.064 468.822 470.064 468.822 L 29.9786 468.822 L 28.7794 25.1394 z "
+     id="path587"
+     transform="matrix(1.000000,0.000000,0.000000,0.812506,0.000000,50.88421)" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:black;stroke-opacity:1;stroke-width:2.5;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;stroke-dasharray:none;"
+     d="M 76.9465 72.411 L 77.9206 430.846 L 420.771 430.846 L 422.719 69.4889 L 76.9465 72.411 z "
+     id="path597" />
+</svg>

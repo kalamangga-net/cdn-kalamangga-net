@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+"http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   id="svg548"
+   sodipodi:version="0.32"
+   width="400pt"
+   height="400pt"
+   sodipodi:docbase="/var/www/html/svg_gallery/svg/callouts"
+   sodipodi:docname="elips_c.svg"
+   inkscape:version="0.37"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs
+     id="defs550" />
+  <sodipodi:namedview
+     id="base"
+     inkscape:zoom="0.77250000"
+     inkscape:cx="200.000000"
+     inkscape:cy="200.000000"
+     inkscape:window-width="503"
+     inkscape:window-height="509"
+     inkscape:window-x="0"
+     inkscape:window-y="24" />
+  <path
+     style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-opacity:1;stroke-width:1.25;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:0.5;stroke-dasharray:none;"
+     d="M 260.62874 19.104369 C 141.75988 22.32561 22.293242 83.550236 19.128742 203.19812 C 21.907842 299.38341 112.86134 349.04319 214.81624 356.13562 C 209.72434 361.39437 206.60093 367.7512 206.34749 375.26062 C 207.06072 394.60606 230.05648 404.72158 256.12874 406.41687 C 255.29794 407.82304 254.74576 409.38171 254.69124 411.16687 C 255.19256 426.19314 291.90799 424.66066 292.65999 409.76062 C 292.64112 407.4403 291.70846 405.52016 290.25374 403.91687 C 312.34288 399.08009 330.4071 387.99721 331.34749 371.13562 C 331.2634 361.78206 325.92377 354.48199 317.72249 349.04187 C 412.72354 329.30144 494.63344 272.92731 498.56624 182.94812 C 497.77509 70.66336 379.49761 15.883128 260.62874 19.104369 z "
+     id="path670" />
+  <path
+     style="font-size:12;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:2.5;"
+     d="M 490.47118 178.08511 C 480.97748 395.29283 17.369077 417.38134 11.040077 198.3332 C 17.369077 -40.962575 488.88888 -46.484411 490.47118 178.08511 z "
+     id="path975"
+     sodipodi:nodetypes="ccc" />
+  <path
+     style="font-size:12;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:2.49999;"
+     d="M 323.25609 366.28238 C 320.78083 410.66442 199.9056 415.17776 198.25546 370.41967 C 199.9056 321.52439 322.84354 320.39611 323.25609 366.28238 z "
+     id="path976"
+     sodipodi:nodetypes="ccc" />
+  <path
+     style="font-size:12;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:2.5;"
+     d="M 284.56936 404.91395 C 283.81738 419.81398 247.09533 421.32921 246.59402 406.30293 C 247.09533 389.88771 284.44403 389.50892 284.56936 404.91395 z "
+     id="path977"
+     sodipodi:nodetypes="ccc" />
+</svg>

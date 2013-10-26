@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+"http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   id="svg548"
+   sodipodi:version="0.32"
+   width="400pt"
+   height="400pt"
+   sodipodi:docbase="/var/www/html/svg_gallery/svg/flowcharts"
+   sodipodi:docname="fc20.svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   inkscape:version="0.37">
+  <defs
+     id="defs550" />
+  <sodipodi:namedview
+     id="base"
+     showgrid="true"
+     inkscape:zoom="0.77250000"
+     inkscape:cx="200.000000"
+     inkscape:cy="200.000000"
+     inkscape:window-width="400"
+     inkscape:window-height="500"
+     inkscape:window-x="0"
+     inkscape:window-y="24" />
+  <path
+     style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-opacity:1;stroke-width:3.75;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:0.25;stroke-dasharray:none;"
+     d="M 47.300006 86.989778 L 441.37734 88.937778 C 441.37734 88.937778 480.19316 146.40388 478.2277 248.67488 C 478.29732 361.65988 443.3428 424.96988 443.3428 424.96988 L 48.282736 426.91788 C 48.282736 426.91788 46.162502 246.72688 46.070484 248.67488 C 46.093489 247.70188 46.317276 87.963778 47.300006 86.989778 z "
+     id="path1572"
+     sodipodi:nodetypes="ccccccc" />
+  <path
+     style="fill:#ffffff;fill-rule:evenodd;stroke:black;stroke-opacity:1;stroke-width:3.75;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;stroke-dasharray:none;"
+     d="M 51.6224 56.8269 L 442.199 58.7749 C 442.199 58.7749 480.67 116.241 478.722 218.512 C 478.791 331.497 444.147 394.807 444.147 394.807 L 52.5964 396.755 C 52.5964 396.755 50.495 216.564 50.4038 218.512 C 50.4266 217.539 50.6484 57.8009 51.6224 56.8269 z "
+     id="path605"
+     sodipodi:nodetypes="ccccccc"
+     transform="matrix(1.008963,0.000000,0.000000,1.000000,-12.87570,20.45414)" />
+</svg>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+"http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   id="svg548"
+   sodipodi:version="0.32"
+   width="400pt"
+   height="400pt"
+   sodipodi:docbase="/var/www/html/svg_gallery/svg/misc"
+   sodipodi:docname="anchor.svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="0.37">
+  <defs
+     id="defs550">
+    <linearGradient
+       id="linearGradient619">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0.000000"
+         id="stop620" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="1.000000"
+         id="stop621" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient619"
+       id="linearGradient622" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     showgrid="true"
+     inkscape:zoom="0.77250000"
+     inkscape:cx="200.000000"
+     inkscape:cy="200.000000"
+     inkscape:window-width="400"
+     inkscape:window-height="500"
+     inkscape:window-x="45"
+     inkscape:window-y="29" />
+  <path
+     style="fill:#bfbfbf;fill-rule:evenodd;stroke:black;stroke-opacity:1;stroke-width:3.23105;stroke-linejoin:bevel;stroke-linecap:butt;fill-opacity:1;stroke-dasharray:none;"
+     d="M 119.324 69.5486 C 119.324 68.6647 260.71688 294.78803 276.62788 296.55603 C 294.30488 295.67203 379.186 233.067 380.07 217.157 C 380.954 212.738 361.508 222.46 362.392 220.692 C 361.509 220.693 395.979 193.293 406.586 183.57 C 398.631 195.061 397.747 245.441 395.98 245.442 C 395.98 245.441 388.025 225.996 388.025 225.996 C 388.025 227.764 338.527 321.456 312.895 344.436 C 307.592 362.114 306.707 378.024 311.127 393.05 C 305.823 385.979 276.655 387.747 267.816 387.747 C 258.978 396.586 116.673 415.147 95.459 416.031 C 95.46 416.915 101.646 427.522 107.833 429.29 C 106.95 429.29 66.2912 419.566 56.5685 421.335 C 70.7106 408.077 91.924 387.747 92.808 386.863 C 91.924 387.747 87.5037 404.541 91.9237 404.541 C 96.3427 404.541 198.873 362.114 213.016 344.436 C 216.551 323.223 96.3437 87.2264 91.0397 87.2264 C 60.988 99.6008 47.7297 46.5677 72.4785 34.1934 C 91.924 16.5156 139.654 31.5417 119.324 69.5486 z "
+     id="path647"
+     sodipodi:nodetypes="ccccccccccccccccccc"
+     transform="matrix(1.174243,0.000000,0.000000,1.147143,-8.972778,-14.55330)" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:black;stroke-opacity:1;stroke-width:3.23105;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;stroke-dasharray:none;"
+     d="M 110.486 86.3425 C 110.486 86.3425 210.15595 244.03043 257.00095 335.07043 "
+     id="path648"
+     sodipodi:nodetypes="cc"
+     transform="matrix(1.174243,0.000000,0.000000,1.147143,-8.972778,-14.55330)" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:black;stroke-opacity:1;stroke-width:3.23105;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;stroke-dasharray:none;"
+     d="M 157.331 393.05 C 271.352 361.23 306.708 330.294 359.741 261.351 "
+     id="path649"
+     sodipodi:nodetypes="cc"
+     transform="matrix(1.174243,0.000000,0.000000,1.147143,-8.972778,-14.55330)" />
+  <path
+     style="fill:#ffffff;fill-rule:evenodd;stroke:black;stroke-opacity:1;stroke-width:3.23105;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;stroke-dasharray:none;"
+     d="M 83.0851 43.9161 C 98.1111 33.3094 120.209 57.1743 102.53 71.3165 C 83.9689 86.3425 63.6396 58.9421 83.0851 43.9161 z "
+     id="path650"
+     sodipodi:nodetypes="ccc"
+     transform="matrix(1.174243,0.000000,0.000000,1.147143,-8.972778,-14.55330)" />
+  <path
+     style="fill:#bfbfbf;fill-rule:evenodd;stroke:black;stroke-opacity:1;stroke-width:3.75;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;stroke-dasharray:none;"
+     d="M 85.7367 66.897 C 85.7367 66.897 91.9239 112.859 72.4785 118.162 C 64.5235 112.859 68.9429 91.6457 68.9429 86.3425 C 68.9429 81.0392 69.8268 76.6198 69.8268 77.5037 C 63.6396 66.0131 62.7557 64.2454 62.7558 65.1292 C 48.6136 89.8781 51.2652 132.304 71.5945 131.42 C 98.1111 131.42 104.298 63.3614 95.4591 58.0582 C 91.04 53.6387 81.3173 49.2194 81.3173 54.5227 C 81.3173 59.826 85.7367 69.5487 85.7367 66.897 z "
+     id="path651"
+     sodipodi:nodetypes="ccccccccc" />
+  <path
+     style="fill:#bfbfbf;fill-rule:evenodd;stroke:black;stroke-opacity:1;stroke-width:3.75;stroke-linejoin:bevel;stroke-linecap:butt;fill-opacity:1;stroke-dasharray:none;"
+     d="M 81.3173 62.4776 C 85.9995 69.3037 86.2443 112.446 74.754 106.259 C 65.0312 109.795 67.1751 73.9682 68.059 73.0843 C 56.5685 63.3615 59.2202 58.0582 59.2203 58.942 C 45.0781 83.6909 55.8341 123.674 76.1634 122.79 C 102.68 122.79 99.2214 64.8844 95.4591 57.0429 C 89.8341 39.007 67.1571 35.5127 69.6954 48.9385 C 69.9582 49.2966 75.2254 57.5143 81.3173 62.4776 z "
+     id="path652"
+     sodipodi:nodetypes="cccccccc"
+     transform="translate(-1.767763,58.33630)" />
+  <path
+     style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-opacity:1;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:0.503704;"
+     d="M 111.25 90 C 123.75 98.75 263.75 315 246.25 370 C 187.5 235 156.25 185 111.25 90 z "
+     id="path653"
+     sodipodi:nodetypes="ccc" />
+  <path
+     style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-opacity:1;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:0.501961;"
+     d="M 135 438.75 C 161.25 428.75 257.5 373.75 292.5 382.5 C 268.75 416.25 153.75 436.25 135 438.75 z "
+     id="path654"
+     sodipodi:nodetypes="ccc" />
+  <path
+     style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-opacity:1;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:0.501961;"
+     d="M 65 60 C 65 58.75 65 35 78.75 28.75 C 92.5 22.5 66.25 62.5 65 60 z "
+     id="path655" />
+</svg>
