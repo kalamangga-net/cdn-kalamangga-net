@@ -1,4 +1,5 @@
 # CDN.Kalamangga.Net
+
 ====================
 
 Ini adalah gudang berkas. Gudang berkas ini merupakan penerapan [CDN (_Content
@@ -7,7 +8,8 @@ Berkas - berkas yang ada di sini akan diambil oleh setiap mesin peladen
 dengan Git.
 
 Silakan gunakan gudang ini bila Anda berminat.
-----------------------------------------------
+
+==============================================
 
 ## Apa yang tercakup dalam gudang ini?
 
