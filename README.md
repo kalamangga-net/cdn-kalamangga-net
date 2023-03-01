@@ -21,6 +21,8 @@ Silakan gunakan gudang ini bila Anda berminat.
 
 * [BootStrap](http://getbootstrap.org)
 * [Jquery](https://jquery.com)
+* [Echarts](https://echarts.apache.org)
+* [Echarts-stat](https://github.com/ecomfe/echarts-stat)
 
 ### Tema Wordpress
 
